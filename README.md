@@ -4,8 +4,8 @@ This project demonstrates how to use **MapStruct** with **Spring Boot** to map e
 
 ## Prerequisites
 
-- **Java 11** or higher
-- **Spring Boot 2.7.x** or higher
+- **Java 22** or higher
+- **Spring Boot 3.4.x** or higher
 - **Maven** (for dependency management)
 - **MapStruct** (latest version)
 ## How to Run
