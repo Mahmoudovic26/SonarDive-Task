@@ -1,5 +1,5 @@
-Spring Boot MapStruct Example
-This project demonstrates how to use MapStruct with Spring Boot to map entities to Data Transfer Objects (DTOs). It includes entities for Country and Company, along with corresponding DTOs, mappers, and services.
+# Spring Boot MapStruct Example
+## This project demonstrates how to use MapStruct with Spring Boot to map entities to Data Transfer Objects (DTOs). It includes entities for Country and Company, along with corresponding DTOs, mappers, and services.
 
 Prerequisites
 Java 22 or higher
